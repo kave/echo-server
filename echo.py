@@ -23,4 +23,5 @@ app.add_route('/', echo)
 
 if __name__ == '__main__':
     httpd = simple_server.make_server('127.0.0.1', config.PORT, app)
+    print('Ready to receive requests')
     httpd.serve_forever()
