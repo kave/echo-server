@@ -9,9 +9,7 @@
     - `pipenv --python=3.7`
     - `pipenv install`
 - Create a `config/.env` file with contents:
-```
-PORT=8888
-```
+  - `PORT=8888`
 
 ### Run server
 `pipenv run python echo.py`
