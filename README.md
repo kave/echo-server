@@ -13,4 +13,3 @@
 
 ### Run server
 `pipenv run python echo.py`
- - by default it will listen on port `8888`
