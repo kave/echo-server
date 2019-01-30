@@ -4,7 +4,7 @@
 ### Dependencies
 - Python37
 - `brew install pyenv`
-- `pyenv install py37`
+- `pyenv install 3.7.0`
 - `brew install pipenv`
     - `pipenv --python=3.7`
     - `pipenv install`
